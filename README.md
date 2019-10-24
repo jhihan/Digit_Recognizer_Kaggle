@@ -11,4 +11,4 @@ TensorFlow with GPU
 !pip install tensorflow==2.0.0b1
 # Techniques: 
 Model: convolutional neural network with the usage of tensorflow.keras
-Maxpool and Dropout are used in order to get rid of overefitting
+Maxpool and Dropout are used in order to get rid of overefitting.
