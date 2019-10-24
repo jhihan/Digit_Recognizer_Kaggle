@@ -7,5 +7,8 @@ https://colab.research.google.com
 If you couldn't open the .ipynb file, please paste the link of the file to here: https://nbviewer.jupyter.org/
 ## Prerequisites:
 TensorFlow with GPU
+## Installing:
+!pip install tensorflow==2.0.0b1
 # Techniques: 
 Model: convolutional neural network with the usage of tensorflow.keras
+Maxpool and Dropout are used in order to get rid of overefitting
